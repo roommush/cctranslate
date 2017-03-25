@@ -1,0 +1,8 @@
+package ts.trans;
+
+public enum LANG {
+	EN,		//英文
+	ZH,		//中文
+	RU,		//俄语
+	JA		//日语
+}
